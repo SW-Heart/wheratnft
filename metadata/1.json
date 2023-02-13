@@ -1,0 +1,36 @@
+{
+    "name": "mynft",
+    "description": "This is a NFT.",
+    "image": "https://***/nft.png",
+    "attributes": [
+        {
+            "trait_type": "BACKGROUND",
+            "value":"Orange"
+        },
+        {
+            "trait_type": "CLOTHES",
+            "value": "Tie Dye"
+        },
+        {
+            "trait_type": "EARRING",
+            "value":"Gold Hoop"
+        },
+        {
+            "trait_type": "EYES",
+            "value":"Scumbag"
+        },
+        {
+            "trait_type": "FUR",
+            "value":"Solid Gold"
+        },
+        {
+            "trait_type": "HAT",
+            "value":"Army Hat"
+        },
+        {
+            "trait_type": "MOUTH",
+            "value":"Bored Pipe"
+        },
+
+    ]
+}
